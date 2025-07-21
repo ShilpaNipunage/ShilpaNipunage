@@ -22,7 +22,7 @@ LLM + n8n pipeline to extract weekly academic updates from school newsletters an
 ### 📈 [OTEL Log Intelligence Graph](https://github.com/ShilpaNipunage/AI_POC/tree/main/OTEL_log_analyzer)
 Transform OpenTelemetry logs into a Neo4j knowledge graph, and use LangGraph agent to answer queries like “Which services communicate?”
 
-### ☁️ [Fine-Tune Mistral 7B on AWS](https://github.com/ShilpaNipunage/AI_POC/tree/main/langchain_MCP_A2A)
+### ☁️ [LangGraph Agent with MCP & A2A Integration](https://github.com/ShilpaNipunage/AI_POC/tree/main/langchain_MCP_A2A)
 Containerized multi-agent system using LangGraph, GPT-4o-mini, and Google A2A, with MCP tool serving and Envoy sidecars for resilient, observable agent communication.
 
 ---
